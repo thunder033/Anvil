@@ -1,0 +1,24 @@
+M:\RaptorRun\Anvil\CollisisionEditor2\obj\Debug\Anvil.csprojResolveAssemblyReference.cache
+M:\RaptorRun\Anvil\CollisisionEditor2\obj\Debug\Custom Fields.baml
+M:\RaptorRun\Anvil\CollisisionEditor2\obj\Debug\AnimationProperties.baml
+M:\RaptorRun\Anvil\CollisisionEditor2\obj\Debug\Custom Fields.g.cs
+M:\RaptorRun\Anvil\CollisisionEditor2\obj\Debug\MainWindow.g.cs
+M:\RaptorRun\Anvil\CollisisionEditor2\obj\Debug\Settings.g.cs
+M:\RaptorRun\Anvil\CollisisionEditor2\obj\Debug\AnimationProperties.g.cs
+M:\RaptorRun\Anvil\CollisisionEditor2\obj\Debug\App.g.cs
+M:\RaptorRun\Anvil\CollisisionEditor2\obj\Debug\GeneratedInternalTypeHelper.g.cs
+M:\RaptorRun\Anvil\CollisisionEditor2\obj\Debug\MainWindow.baml
+M:\RaptorRun\Anvil\CollisisionEditor2\obj\Debug\Resources\DesignerItem.baml
+M:\RaptorRun\Anvil\CollisisionEditor2\obj\Debug\Resources\ResizeRotateChrome.baml
+M:\RaptorRun\Anvil\CollisisionEditor2\obj\Debug\Resources\SizeChrome.baml
+M:\RaptorRun\Anvil\CollisisionEditor2\obj\Debug\Settings.baml
+M:\RaptorRun\Anvil\CollisisionEditor2\obj\Debug\CollisisionEditor2.Properties.Resources.resources
+M:\RaptorRun\Anvil\CollisisionEditor2\obj\Debug\Anvil.csproj.GenerateResource.Cache
+M:\RaptorRun\Anvil\CollisisionEditor2\bin\Debug\Anvil.exe.config
+M:\RaptorRun\Anvil\CollisisionEditor2\bin\Debug\Anvil.exe
+M:\RaptorRun\Anvil\CollisisionEditor2\bin\Debug\Anvil.pdb
+M:\RaptorRun\Anvil\CollisisionEditor2\obj\Debug\Anvil_MarkupCompile.cache
+M:\RaptorRun\Anvil\CollisisionEditor2\obj\Debug\Anvil_MarkupCompile.lref
+M:\RaptorRun\Anvil\CollisisionEditor2\obj\Debug\Anvil.g.resources
+M:\RaptorRun\Anvil\CollisisionEditor2\obj\Debug\Anvil.exe
+M:\RaptorRun\Anvil\CollisisionEditor2\obj\Debug\Anvil.pdb

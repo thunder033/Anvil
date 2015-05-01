@@ -1,0 +1,39 @@
+﻿<Window x:Class="CollisisionEditor2.Custom_Fields"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Custom_Fields" Height="400" Width="500" Icon="Media/anvil-icon2-med.png">
+    <Window.Resources>
+        <Style TargetType="Label" x:Key="Header">
+            <Setter Property="FontWeight" Value="Bold" />
+            <Setter Property="Background" Value="#FF5B5B5B" />
+            <Setter Property="Foreground" Value="#EEEEEE" />
+            <Setter Property="BorderThickness" Value="1,0,0,0" />
+            <Setter Property="BorderBrush" Value="#999999" />
+        </Style>
+    </Window.Resources>
+    <Grid x:Name="Content">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="200" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+        
+        <Label Content="Property" VerticalAlignment="Top" Style="{StaticResource Header}" />
+        <Label Content="Value" VerticalAlignment="Top" Grid.Column="1" Style="{StaticResource Header}" />
+        
+        <ItemsControl x:Name="fields" Grid.ColumnSpan="2" Margin="0, 40">
+            <ItemsControl.ItemTemplate>
+                <DataTemplate>
+                    <Grid>
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="200" />
+                            <ColumnDefinition Width="*" />
+                        </Grid.ColumnDefinitions>
+                        
+                        <Label HorizontalAlignment="Left" Content="{Binding Property}"/>
+                        <TextBox Text="{Binding Value,Mode=TwoWay}" HorizontalAlignment="Left" Grid.Column="1" Width="200" Height="25" VerticalContentAlignment="Center" />
+                    </Grid>
+                </DataTemplate>
+            </ItemsControl.ItemTemplate>
+        </ItemsControl>
+    </Grid>
+</Window>
