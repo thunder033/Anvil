@@ -38,4 +38,4 @@ each frame via a drag and drop interface. Different types can be given to these 
 interactions in the game engine.
 
 Logic exists that is tailored to leverage these Animation Definitions, but it is somewhat heavily tied into the original game
-project.
+project, and thus is not part of this repository.
