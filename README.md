@@ -39,3 +39,6 @@ interactions in the game engine.
 
 Logic exists that is tailored to leverage these Animation Definitions, but it is somewhat heavily tied into the original game
 project, and thus is not part of this repository.
+
+#License
+This project all components I authored are licensed under BSD 2-Clause (see license.md)
